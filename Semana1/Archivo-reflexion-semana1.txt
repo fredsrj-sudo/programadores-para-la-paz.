@@ -1,0 +1,11 @@
+El uso responsable de la información en internet es importante porque nos ayuda a participar de manera más consciente y sensata. 
+Cuando verificamos lo que vemos o compartimos, evitamos la desinformación y aportamos a conversaciones más respetuosas. 
+Esto nos vuelve personas más críticas, que piensan antes de opinar y se interesan por la veracidad de la información.
+Esto se relaciona con la participación ciudadana, ya que una persona bien informada puede opinar mejor, argumentar sus ideas y trabajar con otros 
+para lograr objetivos en común. Además, escuchar a los demás y respetar sus puntos de vista es clave para construir soluciones entre todos.
+También tiene mucho que ver con la organización del trabajo en herramientas como Git y GitHub, donde varias personas colaboran en un mismo proyecto. 
+En estos casos es importante ser ordenado, claro con los cambios que se hacen y respetar el trabajo de los demás.
+Así como en internet debemos ser responsables con lo que compartimos, en estas herramientas también debemos cuidar 
+cómo trabajamos para no generar errores o confusiones.
+En conclusión, todo está conectado, porque se trata de ser: 
+Responsables, pensar bien y trabajar en equipo de forma organizada y respetuosa.

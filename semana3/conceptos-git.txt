@@ -1,0 +1,15 @@
+ 1. Repositorio 
+Es el lugar donde almacenamos un proyecto junto con todo sus archivos carpetas 
+y el historial de cambios. Permite organizar el codigo, trabajar en equipo y 
+llevar un control de versiones para saber que modificaciones se han hecho y poder
+vovler a estados anteriores si es necesario.
+ 2. Commit  
+Es un registro de los cambios realizados en un proyecto. Funciona como captura del
+estado de los archivos en un momento especifico, permitiendo guardar el proceso y
+llevar un control de los cambios 
+Al hacerlo debemos incluir un mensaje que describe nuestros cambios realizados
+para facilitar entender la evolucion del proyecto.
+ 3. Push 
+Es el empuje que hacemos permitiendonos enviar commits desde nuestro repositorio 
+local hacia el repositorio remoto (github) sube nuestro trabajo para que quede 
+guardado en la nube y otros puedan verlo o colaborar       

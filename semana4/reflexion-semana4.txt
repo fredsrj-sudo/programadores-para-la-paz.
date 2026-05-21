@@ -1,0 +1,18 @@
+¿Por qué es importante que las comunidades o iniciativas 
+ciudadanas puedan construir herramientas tecnológicas propias 
+utilizando tecnologías abiertas como Node.js?
+
+Crear herramientas con Node.js es sustancial porque nos da 
+libertad digital y control real sobre nuestros proyectos 
+tecnológicos.Al usar código abierto, dejamos de ser solo 
+consumidores de apps de otras personas o empresas para 
+convertirnos en creadores que entendemos cómo funciona el 
+software por dentro.
+No dependemos de terceros  
+Además, Node.js utiliza JavaScript, lo que nos permite dominar 
+el frontend y el backend con un solo lenguaje, acelerando asi 
+nuestro aprendizaje. 
+Siendo esto una habilidad altamente demandada que nos permite 
+resolver problemas reales de nuestro entorno mientras construimos 
+una hoja de vida solida en nuestro caso portafolio de github 
+solido. 

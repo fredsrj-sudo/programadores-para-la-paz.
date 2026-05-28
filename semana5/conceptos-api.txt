@@ -1,0 +1,12 @@
+Esta ruta de Node.js recibe reportes enviados por los usuarios 
+mediante el método POST, lee el mensaje que viene en la petición 
+y responde con un formato JSON que confirma su recepción. 
+En el contexto de una aplicación comunitaria, este código funciona
+exactamente como un buzón digital de quejas y sugerencias en 
+tiempo real. Los vecinos pueden utilizarlo desde sus teléfonos 
+para alertar sobre problemas del barrio como baches en las calles,
+luminarias apagadas o acumulación de basura en zonas comunes. 
+También es ideal para reportar emergencias de seguridad ciudadana
+o proponer ideas de mejora, centralizando toda la información en
+el servidor para que los administradores de la comunidad puedan 
+verla y resolver los problemas de manera organizada.

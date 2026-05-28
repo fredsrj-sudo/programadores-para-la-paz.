@@ -1,0 +1,5 @@
+Explicado de manera simple lo que sucede en 
+cada una de estas rutas es que cada una de ellas al tener asignada
+una url y tener nuestro servidor funcionando es que en cada una 
+de ella tenemos una respuesta diferente. 
+

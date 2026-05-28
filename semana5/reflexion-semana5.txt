@@ -1,0 +1,14 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan 
+información, reportes o alertas de manera organizada?
+
+Las APIs son algo como un puentes invisible que nos ayuda a los 
+personas a organizarnos mejor en un entorno digital y a cuidarnos entre todos.
+Hoy en día, la gente usa muchas aplicaciones diferentes para reportar problemas
+o alertar sobre peligros. Las APIs funcionan como traductores automáticos que 
+juntan todos esos mensajes dispersos y los ordenan en un solo lugar. 
+Gracias a esto, si alguien reporta un bache o una emergencia, la información 
+llega al instante a las autoridades o al celular de todo el barrio.
+En palabras sencillas, estas herramientas quitan los procesos y los papeles 
+de por medio. 
+Hacen que la comunicación sea directa, rápida y sin esfuerzo, 
+logrando que los vecinos se sientan escuchados y protegidos.

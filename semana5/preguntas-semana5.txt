@@ -1,0 +1,9 @@
+¿Qué es una ruta (route) en Express?
+Rta: B
+¿Qué método HTTP se usa normalmente para consultar información?
+Rta: B
+¿Qué método HTTP se usa normalmente para enviar o registrar 
+información?
+Rta: A
+¿Qué significa API?
+Rta: B

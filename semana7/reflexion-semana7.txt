@@ -1,0 +1,11 @@
+¿Por qué es importante que las comunidades puedan registrar y 
+consultar reportes o incidencias en una plataforma tecnológica?
+
+Esto es de suma importancia ya que permite a la comunidad hacer ver sus necesidades dejando un registro 
+como base para que asi los entes que velen por esto sepan cual es la necesidad que esta manifestando
+la comunidad, el hecho que publiquen aqui permite tambien tener un hisorial claro en el entorno tegnologico
+dandonos asi una accesibilidad y trazabilidad de las acciones de los diferentes entes.
+Este flujo de informacion mejora la comunicacion bidireccional, cerrando el ciclo desde que surgue la 
+incidencia hasta su efectiva solucion.  
+El uso de la tegnologia empodera a los habitantes al brindar un canal directo y eficiente para manifestar
+problematicas reales.

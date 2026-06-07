@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Daño Ambiental",
+  "descripcion": "Tala de arboles de manera indiscriminada en el sector 3"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiental ",
+  "descripcion": "Arrojo de basura en el rio la bananera"
+}

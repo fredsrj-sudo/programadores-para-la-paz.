@@ -1,0 +1,9 @@
+Lo que sucede cuando probamos la ruta get es que nos muestra la siguiente informacion de los
+datos que enviamos mediante el post 
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en el alumbrado publico"
+  }
+]

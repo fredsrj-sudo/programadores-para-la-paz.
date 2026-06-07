@@ -1,0 +1,3 @@
+Primero al tener nuestro servidor ejecutandose en el puerto 3000 
+este nos devuelve la siguiente respuesta:
+Cuerpo recibido: { nombre: 'Fredd', mensaje: 'Hola' }

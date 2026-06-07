@@ -1,0 +1,12 @@
+Un ciudadano envio la siguiente peticion:  
+{
+  "tipo": "zona recreativa",
+  "descripcion" : "Se reporta que hace falta una zona recreativa en el barrio san marino ya que muchos niños estan recreando en zona de circulacion de vehiculos."
+}
+Y en el servidor repondio de la siguiente manera 
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "zona recreativa",
+  "descripcion": "Se reporta que hace falta una zona recreativa en el barrio san marino ya que muchos niños estan recreando en zona de circulacion de vehiculos."
+}

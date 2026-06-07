@@ -1,0 +1,9 @@
+Creo que es importante que las plataformas tecnológicas reciban reportes de manera estructurada porque 
+facilita la organización de la información. Cuando los datos se envían de manera ordenada, es más fácil para
+nosotros como desarrolladores ya que esto nos permite analizarlos y almacenarlos. Además, permite identificar
+problemas con mayor rapidez. Esto ayuda a que las entidades responsables tomen decisiones más eficientes. 
+También reduce errores y evita que se pierda información importante. Los reportes estructurados mejoran el 
+seguimiento de cada caso. De esta manera, se puede brindar una mejor atención a los ciudadanos. 
+Asi mismo, contribuyen a generar estadísticas útiles para la comunidad. En general, hacen que la 
+comunicación entre ciudadanos y organizaciones sea más efectiva. Por eso considero que son fundamentales 
+en las plataformas digitales.

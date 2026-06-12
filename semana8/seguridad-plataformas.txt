@@ -1,0 +1,5 @@
+1. Aplicacion constante de parches de seguridad y actualizaciones de software 
+2. No compartir datos personales ni ubicaciones en perfiles publicos 
+3. Reportar inmediatamente cualquier contenido o comportamiento sospechoso 
+4. Establecer terminos de servicio claros sobre el uso responsable y prohibiciones de contenido
+5. Configurar filtros automaticos para bloquear lenguaje ofensivo o enlaces peligrosos 

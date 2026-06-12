@@ -1,0 +1,7 @@
+comando uname -a: 
+Linux fredd-HP-245-G7-Notebook-PC 7.0.0-22-generic #22-Ubuntu SMP PREEMPT_DYNAMIC Mon May 25 15:54:34 UTC 2026 x86_64 GNU/Linux
+Comando whoami:
+fredd
+
+Esto es de suma importancia por que nos dice exactamente que version de sistema tenemos para que no 
+instalemos programas que no sean compatibles.  

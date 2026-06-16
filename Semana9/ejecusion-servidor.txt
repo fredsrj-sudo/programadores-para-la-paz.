@@ -1,0 +1,10 @@
+El servidor esta a la escucha
+
+fredd@fredd-HP-245-G7-Notebook-PC:~/Desktop/programadores-para-la-paz./Semana9$ node server.js
+Servidor ejecutándose en puerto 3000 
+
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

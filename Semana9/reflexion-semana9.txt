@@ -1,0 +1,10 @@
+Mantener la estabilidad y la seguridad en el servidor de una plataforma comunitaria es el pilar 
+fundamental para proteger el trabajo social digital, ya que este espacio funciona como una plaza 
+pública donde la confianza colectiva se construye a través de la certeza de que el sitio no se 
+caerá en momentos críticos. Cuando el sistema responde con solidez, el esfuerzo y el tiempo que 
+los ciudadanos invierten en organizarse se ven respetados, blindando al mismo tiempo la información
+privada y las opiniones de los usuarios contra cualquier vulnerabilidad externa que pueda poner en 
+riesgo su integridad en el mundo real. De esta manera, la infraestructura técnica deja de ser un
+simple conjunto de cables para convertirse en una garantía de continuidad democrática y apoyo 
+mutuo, demostrando que cuidar la salud del servidor es, en realidad, un acto profundo de cuidado,
+respeto y compromiso hacia la propia comunidad y sus procesos organizativos.

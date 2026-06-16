@@ -1,0 +1,18 @@
+Sistema operativo
+Se encarga de administrar todo el hardware (como la memoria y el procesador) y permite que los 
+demás programas puedan arrancar y funcionar correctamente sin estorbarse entre sí.
+
+Node.js
+Permite que ese lenguaje de programación, que antes solo servía para hacer páginas interactivas, 
+ahora pueda ejecutarse directamente en una computadora o servidor.
+
+Aplicación server.js
+contiene las instrucciones específicas de lo que debe hacer nuestro servidor, como decidir qué 
+responder cuando un usuario entra a una página web.
+
+Puerto
+Es la "puerta" virtual por la que entra y sale la información de un programa determinado 
+para no mezclarse con otros.
+
+Logs
+Un registro de texto donde se va anotando automáticamente todo lo que pasa

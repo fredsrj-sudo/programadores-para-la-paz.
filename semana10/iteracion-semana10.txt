@@ -1,0 +1,12 @@
+Registro de Incidencias (Prioridad Alta): El formulario digital para que el ciudadano 
+guarde su reporte.
+Consulta y Seguimiento de Reportes (Prioridad Media): La vista interna 
+para que el equipo vea y gestione el listado de incidencias
+
+
+Para mí, que una tarea esté terminada significa que aporta valor real y medible al usuario.
+
+Funciona: El código corre sin errores y cumple los criterios de la historia.
+Fue probada: Se verificó que el formulario y los filtros no fallan.
+Quedó registrada en Git: El trabajo se subió a la rama principal.
+Está en el servidor: El cliente ya puede verla y usarla en línea.

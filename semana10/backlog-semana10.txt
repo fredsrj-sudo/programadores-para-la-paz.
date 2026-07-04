@@ -1,0 +1,11 @@
+Prioridad alta:
+como coordinador, quiero asignar una incidencia a un técnico 
+específico para que se inicie la reparación en campo.
+
+Prioridad Media:
+Como ciudadano, quiero recibir un correo electrónico cuando mi
+reporte cambie a 'Resuelto' para saber que mi problema fue atendido.
+
+Prioridad baja:
+Como administrador, quiero exportar un reporte mensual en formato 
+Excel para analizar los tiempos promedio de respuesta del equipo.

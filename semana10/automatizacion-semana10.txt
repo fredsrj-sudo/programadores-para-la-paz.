@@ -1,0 +1,15 @@
+La Entrada: El ciudadano envía su reporte desde la página web. 
+La web le avisa de inmediato a n8n.
+
+La Limpieza: n8n toma la información, borra los datos privados (como el nombre o teléfono del 
+ciudadano para que nadie los robe) y deja solo el problema y la dirección.
+
+El Mensaje: n8n escribe un mensaje bonito y lo manda automáticamente al grupo de Telegram de 
+los coordinadores.
+
+
+Evento: Nueva solicitud de material de urgencia registrada.
+Acción: Enviar mensaje a Telegram.
+Mensaje: "Nueva solicitud de insumos médicos. Revisar inventario.
+Información que no debe enviarse: Nombres de pacientes, diagnósticos médicos, 
+datos de tarjetas de crédito, contraseñas del personal o historias clínicas.

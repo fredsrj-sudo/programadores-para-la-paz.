@@ -1,0 +1,16 @@
+Crear una Causa
+Título del módulo: "Iniciar una Nueva Causa".
++Formulario de registro: Un cuadro de texto corto para el "Nombre de la causa" y un cuadro más amplio 
+para la "Descripción de la meta".
++Botón de acción: Un botón destacado que dice "Publicar Causa" para enviarla a la lista general.
+
+Sección Central: Causas Disponibles
++Formato de visualización: Una cuadrícula o lista de tarjetas independientes, donde cada tarjeta representa
+una causa activa.
++Contenido de la tarjeta: Muestra el título llamativo, un resumen de la propuesta y la foto del creador.
+
+Módulo de Interacción: Apoyos y Contador
++ Contador en tiempo real: Dentro de cada tarjeta, un texto visible que indica el estado 
+actual (ej: "542 personas apoyan esto").
++ Botón de interacción: Un botón con un icono de corazón o pulgar arriba que dice "Apoyar Causa". 
+al presionarlo, el contador se incrementa inmediatamente y el botón cambia de color para confirmar tu voto.

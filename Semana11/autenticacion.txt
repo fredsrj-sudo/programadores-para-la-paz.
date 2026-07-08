@@ -1,0 +1,8 @@
+El login es nuestra puerta de entrada digital donde demostramos quiénes somos usando usuario y contraseña. 
+algunas rutas se deben proteger para que solo los usuarios autorizados vean su información, evitando 
+que extraños o hackers modifiquen la cuenta. 
+Bajo ninguna circunstancia debemos exponer públicamente datos como las contraseñas, 
+números de tarjetas de crédito o tu direcciónes de casa. Cuidar estos accesos es vital para que 
+nadie robe nuestra identidad ni use nuestros servicios contratados. 
+De esta forma, la aplicación nos mantiene seguros y nuestras interacciones en internet permanecen
+totalmente privadas.

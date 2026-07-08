@@ -1,0 +1,10 @@
+Para que una plataforma de participación ciudadana funcione de verdad, la seguridad y la organización 
+lo son todo. Primero, debemos tener una base de datos esto es indispensable porque actúa como el gran 
+libro digital donde se guardan las causas y los votos de la gente, asegurando que ninguna propuesta valiosa
+se pierda en el olvido.Por otro lado, la autenticación de usuarios es la única forma de garantizar que 
+detrás de cada voto hay un ciudadano real de carne y hueso, lo que evita trampas, cuentas falsas y 
+manipulaciones que arruinarían la credibilidad del proyecto. Finalmente, la protección de la información
+es un compromiso ético innegociable; si los vecinos van a opinar sobre temas importantes de su comunidad,
+necesitan la total certeza de que sus datos personales, opiniones y contraseñas no caerán en manos 
+equivocadas ni serán expuestos públicamente. En mi opinión, sin estos tres pilares, la plataforma perdería
+la confianza de la comunidad de inmediato, y sin confianza, simplemente no hay participación posible.

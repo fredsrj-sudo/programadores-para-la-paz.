@@ -1,0 +1,17 @@
+proservis (Proteccion medio ambiente)  
+Registro-A:
+id-causa: CAUSA-50
+titulo: Reforestación del Parque Central
+descripcion: Plantación de 50 árboles nativos para recuperar la sombra y el aire limpio en el barrio.
+categoria: Medio ambiente
+fecha-creacion: 2026-02-01
+estado: Activa
+
+Junta accion comunal pailitas
+Registro-B:
+id-causa: CAUSA-67
+titulo: Comedor Comunitario pailitas
+descripcion: Recaudación de insumos no perecederos para abastecer el almuerzo de 40 adultos mayores.
+categoria: Social
+fecha-creacion: 2025-04-01
+estado: Lograda

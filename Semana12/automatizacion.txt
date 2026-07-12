@@ -1,0 +1,5 @@
+Automatización con Telegram
+Evento: El ciudadano presiona el botón para apoyar una causa.
+Mensaje: "¡Tu causa recibió un nuevo respaldo! Una organización del barrio 
+se ha sumado a la iniciativa. Revisa la plataforma para ver el total acumulado.
+"No enviar: Nombres de los directivos, firmas digitales, cédulas, correos electrónicos ni contraseñas.

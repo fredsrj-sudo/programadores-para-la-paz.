@@ -1,0 +1,14 @@
+Paso 1 Creacion: 
+El ciudadano redacta y publica su causa en la plataforma.
+Paso 2 Registro:
+El sistema guarda la causa automáticamente en la base de datos central.
+Paso 3 Difusion:
+El sistema muestra la causa en el muro público para otros usuarios.
+Paso 4 Apoyo:
+Otros ciudadanos presionan el botón para respaldar la iniciativa digitalmente.
+Paso 5 Conteo:
+La base de datos actualiza y suma cada nuevo apoyo recibido en tiempo real.
+Paso 6 Cierre:
+Al alcanzar la fecha límite, el sistema bloquea las votaciones de la causa.
+Paso 7 Exportacion:
+El sistema recopila los datos y genera un documento PDF con la petición formal.

@@ -1,0 +1,35 @@
+Causa 
+id: 001
+titulo: Falla en el servicio electrico
+descripcion: Cortes de luz diarios afectando los comercios y electrodomesticos
+fecha: 12-06-2026
+
+Apoyo
+id: 101
+causa_id: 001
+nombre: Junta de accion comunal las marias
+fecha: 12-06-2026
+
+Sirve para tramitar reclamos formales colectivos ante las empresas prestadoras de servicios públicos. 
+Permitiendo asi que la Junta de Acción Comunal demuestre que los cortes de luz afectan a todo el barrio. 
+Ayuda a exigir un servicio digno e indemnizaciones por los daños y fallas en el sector.
+
+
+Causa
+id: 002
+titulo: Falta de reductores de velocidad en zona escolar
+descripcion: LOs vehiculos transitan a altas velocidades frente al colegio del barrio poniendo
+en riesgo la seguridad de los niños a las horas de entrada y salida de clases. 
+fecha: 9-07-2026
+
+Apoyo
+id:102
+causa_id: 002
+nombre: Asociación de Padres de Familia - Instituto cañaberal
+fecha: 9-07-2026
+
+
+Sirve para gestionar solicitudes de seguridad vial e infraestructura ante la Alcaldía o Secretaría de 
+Tránsito. Permitiendo que la Asociación de Padres tenga un soporte legal para exigir la instalación de 
+señalización urgente. Ayudando a prevenir accidentes en zonas escolares obligando al gobierno a invertir 
+recursos allí.
